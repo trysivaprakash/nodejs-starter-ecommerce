@@ -1,5 +1,5 @@
 # nodejs-ecommerce-project
-Author - Akhil Sharma
+Author - Sivaprakash Nithyanandam
 
 This project uses the nodeJS-starter project on my github.
 Just a demo to show you could build any project with that same starter kit

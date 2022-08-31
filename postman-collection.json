@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"firstName\":\"Akhil\",\r\n    \"lastName\":\"sharma\",\r\n    \"email\":\"akhilsa@gmail.com\",\r\n    \"password\":\"Axlesharma@12\",\r\n    \"phone\":\"9239292834\"\r\n}",
+					"raw": "{\r\n    \"firstName\":\"Sivaprakash\",\r\n    \"lastName\":\"Nithyanandam\",\r\n    \"email\":\"trysivaprakash@gmail.com\",\r\n    \"password\":\"test@12\",\r\n    \"phone\":\"9239292834\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -43,7 +43,7 @@
 					"urlencoded": [
 						{
 							"key": "email",
-							"value": "akhilsa@gmail.com",
+							"value": "trysivaprakash@gmail.com",
 							"type": "text"
 						},
 						{
